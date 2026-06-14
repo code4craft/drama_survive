@@ -1,6 +1,8 @@
 # 存续 · SURVIVE
 
-![存续 · SURVIVE](cover.png)
+[![存续 · SURVIVE — 点击观看正片](cover.png)](https://www.bilibili.com/video/BV1ehJA67E3J)
+
+<p align="center"><i>▶ 点击封面在 Bilibili 观看正片</i></p>
 
 一部 15 分钟硬科幻动画短片的创作仓库。极简平面 / 赛璐珞硬阴影 / 纯色块对撞,借鉴《爱死机:齐马蓝》(Robert Valley)的美学。
 
@@ -10,7 +12,7 @@ A creative repo for a 15-minute hard sci-fi animated short, in a minimalist grap
 
 ## 观看 / 原著
 
-- 📺 短片正片(Bilibili):_待补充链接_
+- 📺 短片正片(Bilibili):[《存续》:人类想杀死 AI,最后却发现它一直爱着我们](https://www.bilibili.com/video/BV1ehJA67E3J)
 - 📖 小说原著《存续》(豆瓣阅读):<https://read.douban.com/ebook/747504749/>
 
 ---
