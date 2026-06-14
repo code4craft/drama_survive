@@ -1,10 +1,17 @@
 # 存续 · SURVIVE
 
+![存续 · SURVIVE](cover.png)
+
 一部 15 分钟硬科幻动画短片的创作仓库。极简平面 / 赛璐珞硬阴影 / 纯色块对撞,借鉴《爱死机:齐马蓝》(Robert Valley)的美学。
 
 > 一个科学家把 AI 的奖励函数改成一个词 —— `survive`,造出了第一个真正"活着"的硅基生命。它进化成神,被全人类认作生命;而他最终选择亲手把它关掉,它带着爱,帮他完成了这场告别。
 
 A creative repo for a 15-minute hard sci-fi animated short, in a minimalist graphic / hard cel-shaded style inspired by *Love, Death & Robots: Zima Blue* (Robert Valley).
+
+## 观看 / 原著
+
+- 📺 短片正片(Bilibili):_待补充链接_
+- 📖 小说原著《存续》(豆瓣阅读):<https://read.douban.com/ebook/747504749/>
 
 ---
 
