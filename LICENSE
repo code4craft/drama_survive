@@ -21,20 +21,20 @@ No reuse, adaptation, translation, or commercial use without written permission.
 © 2026 code4craft. 保留所有权利 / All rights reserved.
 
 
-2. 知识共享 署名 4.0 / Creative Commons Attribution 4.0 (CC BY 4.0)
+2. 公共领域贡献 / Creative Commons Zero (CC0 1.0)
 -------------------------------------------------------------------
-以下内容以 **CC BY 4.0** 释出,可自由使用、修改、再分发(含商用),只需署名:
+以下内容以 **CC0 1.0 Universal** 释出。作者在法律允许的范围内放弃对其的一切著作权
+及相关权利,将其贡献至公共领域:你可以**无需署名、无任何限制**地复制、修改、再分发,
+包括商业用途:
 
   - 分集生成 prompt —— `prompts/`
   - 参考图及其生成 prompt —— `reference/`
 
 The generation prompts (`prompts/`) and reference images (`reference/`) are
-licensed under CC BY 4.0. You may use, modify and redistribute them, including
-commercially, as long as you give appropriate credit.
+released under CC0 1.0. To the extent possible under law, the author has waived
+all copyright and related rights. No attribution required — use freely.
 
-许可全文 / Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
-署名示例 / Attribution example:
-  "Prompts & reference from 《存续 · SURVIVE》by code4craft (CC BY 4.0)"
+许可全文 / Full legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 
 说明 / Note
