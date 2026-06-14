@@ -34,6 +34,15 @@ A creative repo for a 15-minute hard sci-fi animated short, in a minimalist grap
 
 - 小说原文、字幕与配乐等后期资产、成片与内部工具链,均不在本仓库。这里只保留**纯创作**部分:剧本、分集 prompt、参考图。
 
+## 版权 / License(分区许可)
+
+详见 [`LICENSE`](LICENSE)。
+
+| 内容 | 许可 |
+|---|---|
+| 小说原著、短片成片、剧本 `screenplay/` | **© 保留所有权利**(未经授权不得转载/改编/商用) |
+| 分集 prompt `prompts/`、参考图 `reference/` | **CC BY 4.0**(署名即可自由使用) |
+
 ---
 
-*Adapted from the novella《存续》. This repository contains creative materials only.*
+*Adapted from the novella《存续》. © 2026 code4craft. Prompts & reference under CC BY 4.0.*

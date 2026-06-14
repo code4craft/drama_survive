@@ -1,0 +1,43 @@
+版权与许可 / Copyright & License
+========================================
+
+《存续 · SURVIVE》创作展示仓库采用**分区许可(split licensing)**。
+This repository uses split licensing. Different folders are governed by different terms.
+
+
+1. 保留所有权利 / All Rights Reserved
+----------------------------------------
+以下内容版权归作者所有,**保留所有权利**。未经作者书面授权,不得复制、转载、
+改编、二次创作、翻译或用于任何商业用途:
+
+  - 小说原著《存续》(原文不在本仓库)
+  - 短片成片:影像、配音、音乐、字幕等(正片见 Bilibili)
+  - 本仓库内的剧本 —— `screenplay/`(故事、人物、对白、叙事)
+
+The novel, the finished short film (footage, voice, music, subtitles), and the
+screenplay under `screenplay/` are protected works. All rights reserved.
+No reuse, adaptation, translation, or commercial use without written permission.
+
+© 2026 code4craft. 保留所有权利 / All rights reserved.
+
+
+2. 知识共享 署名 4.0 / Creative Commons Attribution 4.0 (CC BY 4.0)
+-------------------------------------------------------------------
+以下内容以 **CC BY 4.0** 释出,可自由使用、修改、再分发(含商用),只需署名:
+
+  - 分集生成 prompt —— `prompts/`
+  - 参考图及其生成 prompt —— `reference/`
+
+The generation prompts (`prompts/`) and reference images (`reference/`) are
+licensed under CC BY 4.0. You may use, modify and redistribute them, including
+commercially, as long as you give appropriate credit.
+
+许可全文 / Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+署名示例 / Attribution example:
+  "Prompts & reference from 《存续 · SURVIVE》by code4craft (CC BY 4.0)"
+
+
+说明 / Note
+----------------------------------------
+`reference/` 中的参考图体现了短片的视觉设计。若日后希望更严格地保护影片的视觉风格,
+可将该部分改为更保守的许可;当前按作者意愿以 CC BY 4.0 开放。
