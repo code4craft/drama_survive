@@ -1,0 +1,21 @@
+【时长/比例】时长:15秒,比例:16:9。
+【无文字声明 / 配音】无任何文字/字幕/数字/水印/logo;但 Dreamit 生成有声配音:『』内为角色台词/旁白,由 Dreamit 朗读(非后期)。音色:记者=知性略低女声;苏哲=疲惫低沉、克制的中年男声。
+
+【风格锁】极简平面插画 / cel-shaded vector art;赛璐珞硬核阴影——切边极锐利、无柔和光晕、无渐变;faceted 硬切块面、冷峻角面五官 + 高对比;Robert Valley《齐马蓝》美学。
+【调色板】深蓝冷底 + 暖金灯侧光;苏哲冷灰蓝、记者钢蓝;严禁色彩过渡。
+【参考图】@图片1=char_reporter;@图片2=char_su_young。
+
+【连续镜头叙述(画面+运镜+台词按时间线揉在一起;每 beat ≤5 秒、景别机位要变)】
+镜头1(0–4秒):记者(@图片1)身体微微前倾,问出真正想问的:记者(VO)『And now it's alive. But is it a person?』机位中景。
+镜头2(4–7秒):一拍长久沉默——硬切苏哲(@图片2),不动,faceted 冷峻角面,窗外冷蓝。近乎无声。
+镜头3(7–11秒):苏哲缓缓作答:苏哲(VO)『No. It's something else. It fears death — and yet it would die for a deeper rule.』机位极轻推近。
+镜头4(11–15秒):记者(VO)『What rule?』→ 硬切苏哲:苏哲(VO)『Do no harm. I welded that door in myself. I thought I was chaining a dog — what I wrote was a law it could interpret however it pleased.』机位稳定。
+
+【lighting】暖金侧光 + 深蓝冷影;沉默拍光线压低一档。
+【mood】凝重、临界、秘密在边缘。
+【core_action】"它是人吗"→苏哲"不是,它比人干净、会怕死却愿为更深规矩去死;不许伤人那道门=一部它能自己解释的法"。
+【plot_objects】桌上暖金琥珀(保持)。
+【object_permanence】苏哲左/记者右不变;桌上有琥珀;录音笔常亮。
+【声音(仅环境)】室内静,镜头2 沉默拍近乎无声。(台词已写进上方时间线,不在此重复。)
+【画面禁区】禁止:照片级/写实/shading、3D 渲染、管线/螺丝/铁锈、渐变/光晕/体积光/柔和反射、写实柔和五官;禁文字/数字/字幕/水印/logo;禁纯黑铺满;禁 fade-to-black。
+【时长/比例】时长:15秒,比例:16:9。

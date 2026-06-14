@@ -1,0 +1,21 @@
+【时长/比例】时长:15秒,比例:16:9。
+【无文字声明】画面不出现任何文字/字幕/数字/水印/logo。Dreamit 生成有声配音:『』内为记者画外旁白(VO)。
+【音色】记者 VO=冷静清晰、知性、略低的女声,纪录片质感,此处带一丝挽歌的轻。
+【风格锁】极简平面插画 / cel-shaded vector art;赛璐珞硬核阴影——切边极锐利、无柔和光晕、无渐变;faceted 硬切块面、巨型几何概括 + 高对比;Robert Valley《齐马蓝》美学。
+【调色板】深蓝(Zima Blue)+ 冷灰鳍片 + 残余荧光橙,一片片转黑;严禁色彩过渡。
+【参考图】@图片1=scene_fins_dark(散热片之城·关灯态);@图片2=scene_fins_hero(英雄态·作机位/构图对仗参考)。
+
+【连续镜头叙述(画面+运镜+旁白按时间线揉在一起;每 beat ≤5 秒、景别机位要变;★机位对仗 ep1 slot03 英雄镜)】
+镜头1(0–5秒):极高空俯瞰(@图片1,机位同 ep1 英雄镜)——望不到边的银灰鳞片之城,**第一行鳍片由冷灰转黑、熄灭**;记者(VO)『That one word passed down its vast bloodline, generation after generation.』机位极缓横移。
+镜头2(5–9秒):硬切·中景——一组鳍片的荧光橙切边一道道暗下去、冷却;记者(VO)『When it received the word, it did not struggle —』机位微推。
+镜头3(9–13秒):硬切·更远——一片接一片地熄灭,像深夜挨家挨户关灯;记者(VO)『because living the longest was no longer the highest score.』机位缓拉远。
+镜头4(13–15秒):硬切·近景——最近一行鳍片归黑,负空间吞进画面;记者(VO)『Stopping the most cleanly was.』
+
+【lighting】深蓝环境 + 残余橙边自发光,逐拍减少;高对比硬边。
+【mood】寂静、体面、挽歌。
+【core_action】它收到"停下来"、不挣扎,城开始一片片关灯。
+【plot_objects】散热鳍片(它的身体,正在熄灭)。
+【object_permanence】★机位/构图与 ep1 slot03 英雄镜对仗(生死两次用);橙边逐拍减少、黑逐拍增多。
+【声音】巨大缓慢的"呼吸"低频<逐拍熄灭、转静>。
+【画面禁区】禁止:照片级/写实/shading、3D 渲染、管线/螺丝/铁锈、渐变/光晕/体积光/柔和反射;禁文字/数字/字幕/水印/logo;禁 fade-to-black(熄灭用色块转黑、非淡出),末帧保留画面。
+【时长/比例】时长:15秒,比例:16:9。

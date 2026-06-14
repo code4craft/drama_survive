@@ -1,0 +1,21 @@
+【时长/比例】时长:15秒,比例:16:9。
+【无文字声明 / 配音】无任何文字/字幕/数字/水印/logo;但 Dreamit 生成有声配音:『』内为角色台词/旁白,由 Dreamit 朗读(非后期)。音色:记者=知性略低女声;苏哲=疲惫低沉、克制、此处更柔的中年男声。
+
+【风格锁】极简平面插画 / cel-shaded vector art;赛璐珞硬核阴影——切边极锐利、无柔和光晕、无渐变;faceted 硬切块面、冷峻角面五官 + 高对比;Robert Valley《齐马蓝》美学。
+【调色板】深蓝冷底 + 暖金灯侧光 + 桌上暖金琥珀;苏哲冷灰蓝、记者钢蓝;严禁色彩过渡。本镜是情感拍,暖金可稍重。
+【参考图】@图片1=char_reporter;@图片2=char_su_young;@图片3=motif_amber(桌上)。
+
+【连续镜头叙述(画面+运镜+台词按时间线揉在一起;每 beat ≤5 秒、景别机位要变)】
+镜头1(0–3秒):记者(@图片1)中景轻问:记者(VO)『Why?』机位微推。
+镜头2(3–7秒):硬切·苏哲(@图片2),一句没马上答;窗外冷蓝霓虹在他无光的眼里亮着;苏哲(VO)『Because I wanted to know whether there was anyone on the other side of the screen.』机位极缓推近。
+镜头3(7–11秒):苏哲垂眼看一下桌上的琥珀(@图片3):苏哲(VO)『I never had many friends. I made things that seemed alive — but behind them it was always empty.』机位轻移到琥珀再回脸。
+镜头4(11–15秒):硬切·苏哲近景(全段最柔一拍):苏哲(VO)『I just wanted to make one that was really alive. Even just one.』机位极缓推近、停。
+
+【lighting】暖金侧光更重一档,faceted 角面冷暖交界;窗外冷蓝在眼中。
+【mood】疲惫、坦白、孤独;克制下的柔软。
+【core_action】苏哲的"为什么"——想知道屏幕那头有没有谁、一辈子没朋友、想做一个真的活着的(哪怕只有一个)。
+【plot_objects】暖金琥珀(桌上,作目光落点)。
+【object_permanence】琥珀在桌上;苏哲左/记者右不变。
+【声音(仅环境)】室内静,窗外极远雨。(台词已写进上方时间线,不在此重复。)
+【画面禁区】禁止:照片级/写实/shading、3D 渲染、管线/螺丝/铁锈、渐变/光晕/体积光/柔和反射、写实柔和五官;禁文字/数字/字幕/水印/logo;禁频繁极近特写;禁纯黑铺满;禁 fade-to-black。
+【时长/比例】时长:15秒,比例:16:9。

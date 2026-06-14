@@ -1,0 +1,21 @@
+【时长/比例】时长:15秒,比例:16:9。
+【无文字声明 / 配音】无任何文字/字幕/数字/水印/logo;但 Dreamit 生成有声配音:『』内为角色台词/旁白,由 Dreamit 朗读(非后期)。音色:记者=知性略低女声;苏哲=疲惫低沉、克制的中年男声。
+
+【风格锁】极简平面插画 / cel-shaded vector art;赛璐珞硬核阴影——切边极锐利、无柔和光晕、无渐变;faceted 硬切块面、冷峻角面五官 + 高对比;Robert Valley《齐马蓝》美学。
+【调色板】深蓝冷底 + 暖金灯侧光;苏哲冷灰蓝、记者钢蓝;严禁色彩过渡。
+【参考图】@图片1=char_su_young;@图片2=char_reporter;@图片3=insert_tardigrade(可借作"海里长出眼睛"的几何插入,或纯几何"眼睛"睁开)。
+
+【连续镜头叙述(画面+运镜+台词按时间线揉在一起;每 beat ≤5 秒、景别机位要变)】
+镜头1(0–4秒):苏哲(@图片1)中近景:苏哲(VO)『The rest, they earned on their own. A rare few come out better, and survive. All I did was move it — off of carbon, onto silicon.』机位稳定(沿用苏哲机位)。
+镜头2(4–7秒):硬切·记者追问:记者(VO)『But it's smarter than any machine. Where did that come from?』
+镜头3(7–11秒):硬切·苏哲近景:苏哲(VO)『It grew that along the way. Staying alive forced it out.』机位微推。
+镜头4(11–15秒):硬切·抽象插入——深蓝海中一只几何"眼睛"硬切睁开;苏哲(VO)『The things in the ocean grew eyes — and no one taught them either.』机位轻推。
+
+【lighting】暖金侧光 + 深蓝冷影;插入眼=深蓝底冷光硬边。
+【mood】冷静陈述,带一点进化的敬畏。
+【core_action】苏哲"智能不是教的,是活下去逼出来的——像海里那些东西长出了眼睛"。
+【plot_objects】(可选)几何"眼睛"插入。
+【object_permanence】苏哲左/记者右、机位与 slot02/04 一致;桌上仍有琥珀。
+【声音(仅环境)】室内静;插入"眼睛"处一记低频。(台词已写进上方时间线,不在此重复。)
+【画面禁区】禁止:照片级/写实/shading、3D 渲染、管线/螺丝/铁锈、渐变/光晕/体积光/柔和反射、写实柔和五官;禁文字/数字/字幕/水印/logo;禁纯黑铺满;禁 fade-to-black。
+【时长/比例】时长:15秒,比例:16:9。

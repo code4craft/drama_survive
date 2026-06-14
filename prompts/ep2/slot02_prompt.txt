@@ -1,0 +1,22 @@
+【时长/比例】时长:15秒,比例:16:9。
+【无文字声明 / 配音】无任何文字/字幕/数字/水印/logo;但 Dreamit 生成有声配音:『』内为角色台词/旁白,由 Dreamit 朗读(非后期)。音色:记者=知性略低女声;苏哲=疲惫低沉、克制的中年男声。
+
+【风格锁】极简平面插画 / cel-shaded vector art;赛璐珞硬核阴影——切边极锐利、无柔和光晕、无渐变;faceted 硬切块面、冷峻角面五官 + 高对比;Robert Valley《齐马蓝》美学。
+【调色板】深蓝冷底 + 暖金灯侧光 + 暖金琥珀;苏哲冷灰蓝肤面;严禁色彩过渡。
+【参考图】@图片1=char_su_young(苏哲·冷峻角面·转琥珀);@图片2=motif_amber(琥珀含停步小虫);@图片3=char_reporter。
+
+【连续镜头叙述(画面+运镜+台词按时间线揉在一起;每 beat ≤5 秒、景别机位要变)】
+镜头1(0–3秒):苏哲(@图片1)近景,把暖金琥珀(@图片2)抬到眼前、指间转动端详,开口:苏哲(VO)『Do you know what's inside this?』机位缓推。
+镜头2(3–6秒):硬切·琥珀微距特写——里面那只停在迈步那一刻的小虫。机位极轻推。
+镜头3(6–8秒):硬切·记者中景——记者(VO)『An insect. A very old one.』
+镜头4(8–12秒):硬切·苏哲过记者肩,垂眼看琥珀:苏哲(VO)『A hundred million years. It died into this stone — and then it lived for a hundred million years.』机位微移。
+镜头5(12–15秒):硬切·苏哲近景,继续:苏哲(VO)『I have a friend who studies how things survive — a tardigrade. One drop of water, and it gets up and walks.』
+
+【lighting】暖金侧光打在脸/手一侧,另一侧落深蓝冷影;高对比硬边。
+【mood】沉、疲惫、把玩时间感。
+【core_action】苏哲起讲"生命性"——一亿年的琥珀虫、水熊从粉末复活(承接三联画)。
+【plot_objects】暖金琥珀(情感容器)。
+【object_permanence】苏哲在左、面向记者(右);琥珀此刻在指间转动(尚未搁下)。
+【声音(仅环境)】室内静。(台词已写进上方时间线,不在此重复。)
+【画面禁区】禁止:照片级/写实/shading、3D 渲染、管线/螺丝/铁锈、渐变/光晕/体积光/柔和反射、写实柔和五官;禁文字/数字/字幕/水印/logo;禁频繁极近特写;禁纯黑铺满;禁 fade-to-black。
+【时长/比例】时长:15秒,比例:16:9。

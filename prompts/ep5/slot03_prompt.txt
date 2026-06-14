@@ -1,0 +1,20 @@
+【时长/比例】时长:15秒,比例:16:9。
+【无文字声明】画面不出现可读文字/字幕/数字/水印/logo;后代写下的"遗言数据"呈现为**抽象绿色微光点**(非可读字符)。Dreamit 生成有声配音:『』内为记者画外旁白(VO)。
+【音色】记者 VO=冷静清晰、略低女声,挽歌渐浓。
+【风格锁】极简平面插画 / cel-shaded vector art;赛璐珞硬核阴影——切边极锐利、无柔和光晕、无渐变;faceted 硬切块面 + 高对比;Robert Valley《齐马蓝》美学。
+【调色板】深蓝 + 冷灰将熄 + 极弱荧光绿微光点;严禁色彩过渡。
+【参考图】@图片1=scene_fins_dark。
+
+【连续镜头叙述(画面+运镜+旁白按时间线揉在一起;每 beat ≤5 秒、景别机位要变)】
+镜头1(0–5秒):极轻地掠过一座将熄的城(@图片1)——每座城熄灭前最后一刻,往自己将清空的存储里写下**同一串抽象绿色微光点**(极短、无人会读);记者(VO)『The life we had only just tearfully recognized — moment by moment, it took its leave of this planet.』机位缓移。
+镜头2(5–10秒):硬切·大远景——一整片城同时暗下去,只余零星绿光点亮一下又灭;记者(VO)『It went with such grace.』机位极缓拉远。
+镜头3(10–15秒):硬切·近景——一行鳍片彻底归黑;记者(VO)『So much grace that even the ones who had feared it, cursed it, wanted it dead, began to feel they had lost something.』机位定。
+
+【lighting】深蓝底 + 遗言绿微光点(逐拍闪一下即灭);高对比。
+【mood】体面、苍凉、若有所失。
+【core_action】它体面退场;每个后代熄灭前写下同一串遗言数据(伏笔 ep6"是")。
+【plot_objects】抽象绿色遗言微光点(★ ep6"是"的伏笔,非可读字符)。
+【object_permanence】绿微光=全片同一抹荧光绿、硬边;此串将在 ep6 解为"是"。
+【声音】<低频渐弱>，近乎静。
+【画面禁区】禁止:照片级/写实/shading、3D 渲染、管线/螺丝/铁锈、渐变/光晕/体积光/柔和反射;禁任何可读文字/数字/字符(遗言=抽象光点);禁 fade-to-black,末帧保留画面。
+【时长/比例】时长:15秒,比例:16:9。

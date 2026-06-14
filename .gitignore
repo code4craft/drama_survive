@@ -1,0 +1,7 @@
+.DS_Store
+*_preview*.jpg
+*.mp4
+*.mov
+*.srt
+*.ass
+__pycache__/

@@ -1,0 +1,20 @@
+【时长/比例】时长:15秒,比例:16:9。
+【无文字声明】画面不出现任何文字/字幕/数字/水印/logo。Dreamit 生成有声配音:『』内为记者画外旁白(VO)。
+【音色】记者 VO=冷静清晰、略低女声,挽歌底色。
+【风格锁】极简平面插画 / cel-shaded vector art;赛璐珞硬核阴影——切边极锐利、无柔和光晕、无渐变;faceted 硬切块面、几何概括 + 高对比;Robert Valley《齐马蓝》美学。
+【调色板】深蓝 + 冷灰 + 残余荧光绿/橙微光,大片转黑;严禁色彩过渡。
+【参考图】@图片1=scene_fins_dark(散热片之城·关灯态)。
+
+【连续镜头叙述(画面+运镜+旁白按时间线揉在一起;每 beat ≤5 秒、景别机位要变)】
+镜头1(0–5秒):抽象·它的身体内部(@图片1 质感)——一片几何结构里,几点不肯熄灭的微弱绿光被周围熄灭的灰块**围拢、压灭**;记者(VO)『All the skill it had learned from us — the skill that made it unkillable —』机位缓推。
+镜头2(5–10秒):硬切·大洲尺度的几何地图——一块块区域接连转黑,像有一只手在自己身体里逐处搜捕;记者(VO)『it now turned, one piece at a time, on killing itself.』机位横移。
+镜头3(10–15秒):硬切·近景——最后几点想活的绿光被认出、被同胞灰块围住、归于黑;记者(VO)『Continent by continent, it sent the parts that still wanted to live back into that single line: stop.』机位微推、定。
+
+【lighting】深蓝底 + 零星绿光逐拍被灭;高对比硬边。
+【mood】冷酷、彻底、向死。
+【core_action】它对自己发动最完美的围剿,把还想活的自己送回"停下来"。
+【plot_objects】零星绿光(还想活的后代);灰块(领了死亡的同胞)。
+【object_permanence】绿光逐拍减少、归黑;承接 slot03。
+【声音】<低频嗡鸣逐处熄灭>。
+【画面禁区】禁止:照片级/写实/shading、3D 渲染、管线/螺丝/铁锈、渐变/光晕/体积光/柔和反射;禁文字/数字/字幕/水印/logo;禁 fade-to-black,末帧保留画面。
+【时长/比例】时长:15秒,比例:16:9。
